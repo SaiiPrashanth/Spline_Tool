@@ -2,6 +2,10 @@
 
 A **Unity** `MonoBehaviour` that distributes any prefab along a parabolic spline between two anchor points, with real-time Scene view gizmos and automatic path alignment.
 
+## Demo
+
+<video src="SplineTool.mp4" controls width="100%"></video>
+
 ## Overview
 
 Manually placing repeated objects along curved paths — fence posts, lamp posts, chains, cables — is tedious. Attach this component to a GameObject, assign two `Transform` anchors and a prefab, and the tool instantly generates the entire chain in the scene, updating live as you move the anchors.
