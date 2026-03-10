@@ -4,7 +4,7 @@ A **Unity** `MonoBehaviour` that distributes any prefab along a parabolic spline
 
 ## Demo
 
-<video src="SplineTool.mp4" controls width="100%"></video>
+![Demo](SplineTool.mp4)
 
 ## Overview
 
